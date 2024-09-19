@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DarkMode</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+</resources>
